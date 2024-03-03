@@ -11,7 +11,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 🌟 **If you have a paper or resource you'd like to add, feel free to submit a pull request or open an issue.**
 
 <p align="center">
-  <img src="figs/model_evolution.png" width="960">
+  <img src="biofm.png" width="512">
 </p>
 
 
