@@ -37,7 +37,53 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![](https://img.shields.io/badge/NeurIPS_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper_files/paper/2023/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbfd2b76998a0521c12903ef5ced517adf70ad2ba%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/HazyResearch/hyena-dna?color=yellow&style=social)](https://github.com/HazyResearch/hyena-dna)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/models?other=galactica)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/LongSafari)
+  
+* **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome**
+  
+  [![](https://img.shields.io/badge/Bioinformatics_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc43d9cade31600400a0f62beb5bbcc1b548e009e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/jerryji1993/DNABERT?color=yellow&style=social)](https://github.com/jerryji1993/DNABERT)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/jerryji1993/DNABERT?tab=readme-ov-file#32-download-pre-trained-dnabert)
+
+* **DNABERT-2: Efficient Foundation Model and Benchmark for Multi-Species Genome**
+  
+  [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=oMLQB4EZE1&referrer=%5Bthe%20profile%20of%20Ramana%20V%20Davuluri%5D(%2Fprofile%3Fid%3D~Ramana_V_Davuluri1))
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd466fad9e1fe3edb1644d8ba8b906383c36abcea%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/MAGICS-LAB/DNABERT_2?color=yellow&style=social)](https://github.com/MAGICS-LAB/DNABERT_2)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zhihan1996/DNABERT-2-117M)
+
+* **DNABERT-S: Learning Species-Aware DNA Embedding with Genome Foundation Models**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2402.08777)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbc8d58fcb7dbf6cc4942eda901a54412b2018a89%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/MAGICS-LAB/DNABERT_S?color=yellow&style=social)](https://github.com/MAGICS-LAB/DNABERT_S)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zhihan1996/DNABERT-S)
+
+
+* **MoDNA: motif-oriented pre-training for DNA language model**
+  
+  [![](https://img.shields.io/badge/ACM_BCB_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://dl.acm.org/doi/10.1145/3535508.3545512)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F485afddba6de9a5bc6e0104e0b1d463000415c60%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **Species-aware DNA language modeling**
+  
+  [![](https://img.shields.io/badge/BioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.01.26.525670v1)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc2a6c2b7c448840a398ba2c386eeedc537446165%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/DennisGankin/species-aware-DNA-LM?color=yellow&style=social)](https://github.com/DennisGankin/species-aware-DNA-LM)
+  
+* **DNA language models are powerful predictors of genome-wide variant effects**
+  
+  [![](https://img.shields.io/badge/PNAS_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.pnas.org/doi/abs/10.1073/pnas.2311219120?af=R)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0a04d0f9ffc0d30157dea059abbf344c681908ed%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/songlab-cal/gpn?color=yellow&style=social)](https://github.com/songlab-cal/gpn)
+  
+
+
+
+
+
+
 
 ### RNA
 
@@ -88,5 +134,9 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 ## Datasets & Benchmarks
 
 ## Related Resources
+
+### Related Surveys & Evaluations
+
+### Related Repositories
 
 ## Acknowledgements
