@@ -90,6 +90,14 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 
 ### Protein
 (also include antibody, peptide)
+* **ProtTrans: Towards Cracking the Language of Life’s Code Through Self-Supervised Deep Learning and High Performance Computing**
+  
+  [![](https://img.shields.io/badge/bioRxiv_2020-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.pnas.org/doi/epdf/10.1073/pnas.2016239118)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fca9b4fc03ad3ea4680ab2204ecf215f333c616a4%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/agemagician/ProtTrans?color=yellow&style=social)](https://github.com/agemagician/ProtTrans)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/agemagician/ProtTrans)
+
+
 * **Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences**
   
   [![](https://img.shields.io/badge/Proceedings_of_the_National_Academy_of_Sciences_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.pnas.org/doi/epdf/10.1073/pnas.2016239118)
@@ -102,6 +110,13 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![](https://img.shields.io/badge/bioRxiv_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1.full.pdf)
   [![Stars](https://img.shields.io/github/stars/facebookresearch/esm?color=yellow&style=social)](https://github.com/facebookresearch/esm)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/facebookresearch/esm)
+
+* **ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2402.16445v1)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1296d51001f8a73c0a3356f78b136a691928985c%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/Lyu6PosHao/ProLLaMA?color=yellow&style=social)](https://github.com/Lyu6PosHao/ProLLaMA)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/GreatCaptainNemo/ProLLaMA)
 
 ### Single-cell
 
