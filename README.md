@@ -106,6 +106,12 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![Stars](https://img.shields.io/github/stars/evo-design/evo?color=yellow&style=social)](https://github.com/evo-design/evo)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/togethercomputer/evo-1-131k-base)
 
+* **The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics**
+  
+  [![](https://img.shields.io/badge/BioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.01.11.523679v2.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb06e1a2c84fb3bff03b10283bc863f007f5483b6%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/instadeepai/nucleotide-transformer?color=yellow&style=social)](https://github.com/instadeepai/nucleotide-transformer)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/InstaDeepAI/nucleotide-transformer-65099cdde13ff96230f2e592)
 
 
 
