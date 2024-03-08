@@ -87,14 +87,14 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 
 * **EpiGePT: a Pretrained Transformer model for epigenomics**
   
-  [![](https://img.shields.io/badge/BioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.07.15.549134v1.full.pdf)
+  [![](https://img.shields.io/badge/BioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.07.15.549134v1.full.pdf)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1f087a43c6c694f7999255103bf0d582fd1dee79%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/ZjGaothu/EpiGePT?color=yellow&style=social)](https://github.com/ZjGaothu/EpiGePT)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://health.tsinghua.edu.cn/epigept/download.php)
 
 * **DNAGPT: A Generalized Pre-trained Tool for Multiple DNA Sequence Analysis Tasks**
   
-  [![](https://img.shields.io/badge/BioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/biorxiv/early/2023/07/12/2023.07.11.548628.full.pdf)
+  [![](https://img.shields.io/badge/BioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/biorxiv/early/2023/07/12/2023.07.11.548628.full.pdf)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa05be6905ce7fb4a86dd9b174232362cc50df5af%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/TencentAILabHealthcare/DNAGPT?color=yellow&style=social)](https://github.com/TencentAILabHealthcare/DNAGPT)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/drive/folders/10UPPx6V13oQW6knuLV7d8SRIA3D6hYor)
