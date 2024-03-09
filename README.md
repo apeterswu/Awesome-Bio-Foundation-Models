@@ -203,6 +203,11 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F566eed4f8f3c476de7a97ea40ce919a9252c2b9e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/Graylab/IgLM?color=yellow&style=social)](https://github.com/Graylab/IgLM)
 
+* **Efficient evolution of human antibodies from general protein language models**
+  
+  [![](https://img.shields.io/badge/Nature_Methods_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41587-023-01763-2#Abs1)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1675abb8bd2f6725cbdab46f8c406c4278a923df%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/brianhie/efficient-evolution?color=yellow&style=social)](https://github.com/brianhie/efficient-evolution)
 
 
 
