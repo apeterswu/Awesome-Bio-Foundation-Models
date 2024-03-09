@@ -134,6 +134,11 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa25e9cc63e7660b2dc0659adc5319131d3a1e0ab%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/burstein-lab/genomic-nlp?color=yellow&style=social)](https://github.com/burstein-lab/genomic-nlp)
   
+* **MoDNA: Motif-Oriented Pre-training For DNA Language Model**
+  
+  [![](https://img.shields.io/badge/Nature_Communications_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://dl.acm.org/doi/pdf/10.1145/3535508.3545512)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F485afddba6de9a5bc6e0104e0b1d463000415c60%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  
 
 
 
@@ -167,6 +172,11 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![](https://img.shields.io/badge/Nature_Methods_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-023-02148-8)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F74ae117a5033fed1fa226bb5e8a85e419ed62057%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/Shunsuke-1994/rfamgen?color=yellow&style=social)](https://github.com/Shunsuke-1994/rfamgen)
+
+* **Multiple sequence alignment-based RNA language model and its application to structural inference**
+  
+  [![](https://img.shields.io/badge/Nature_Methods_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/nar/article/52/1/e3/7369930)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa990b0604f64f3277e6b44299711f1ce44b8460a%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
 
 
@@ -350,5 +360,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 ### Related Surveys & Evaluations
 
 ### Related Repositories
+* [awesome-deep-learning-single-cell-papers](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers)
+* 
 
 ## Acknowledgements
