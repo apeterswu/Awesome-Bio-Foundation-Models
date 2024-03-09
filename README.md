@@ -32,6 +32,12 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 ## Models
 ### DNA & Gene
 
+* **To Transformers and Beyond: Large Language Models for the Genome**
+  
+  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2311.07621.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F374664a1f5704c7451975e3f231a29f439aeaecd%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+
 * **HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution**
   
   [![](https://img.shields.io/badge/NeurIPS_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper_files/paper/2023/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf)
@@ -128,6 +134,20 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 
 ### RNA
 
+* **scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data**
+  
+  [![](https://img.shields.io/badge/Nature_Machine_Intelligence_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s42256-022-00534-z)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fedb5495bc9081f2adfc8de51e0981510802e4090%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/TencentAILabHealthcare/scBERT?color=yellow&style=social)](https://github.com/TencentAILabHealthcare/scBERT)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/TencentAILabHealthcare/scBERT?tab=readme-ov-file#checkpoint)
+
+* **scPML: pathway-based multi-view learning for cell type annotation from single-cell RNA-seq data**
+  
+  [![](https://img.shields.io/badge/Communications_Biology_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s42003-023-05634-z?fromPaywallRec=true)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1b539f1e4a8df6fcb5569348ebbbc44c8ee8fe04%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/TencentAILabHealthcare/scBERT?color=yellow&style=social)](https://github.com/Kevis9/scPML)
+
+
 
 ### Protein
 (also include antibody, peptide)
@@ -166,8 +186,39 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![Stars](https://img.shields.io/github/stars/churchlab/UniRep?color=yellow&style=social)](https://github.com/churchlab/UniRep)
 
 
+
+
+
+
+
+
 ### Single-cell
 
+* **scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data**
+  
+  [![](https://img.shields.io/badge/Nature_Machine_Intelligence_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s42256-022-00534-z)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fedb5495bc9081f2adfc8de51e0981510802e4090%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/TencentAILabHealthcare/scBERT?color=yellow&style=social)](https://github.com/TencentAILabHealthcare/scBERT)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/TencentAILabHealthcare/scBERT?tab=readme-ov-file#checkpoint)
+
+* **scPML: pathway-based multi-view learning for cell type annotation from single-cell RNA-seq data**
+  
+  [![](https://img.shields.io/badge/Communications_Biology_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s42003-023-05634-z?fromPaywallRec=true)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1b539f1e4a8df6fcb5569348ebbbc44c8ee8fe04%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/Kevis9/scPML?color=yellow&style=social)](https://github.com/Kevis9/scPML)
+
+* **scGPT: toward building a foundation model for single-cell multi-omics using generative AI**
+  
+  [![](https://img.shields.io/badge/Nature_Methods_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-024-02201-0?fromPaywallRec=true)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F13dc81fce2c73de67dbe3829a32ec23d663cec89%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/bowang-lab/scGPT?color=yellow&style=social)](https://github.com/bowang-lab/scGPT)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/bowang-lab/scGPT?tab=readme-ov-file#pretrained-scgpt-model-zoo)
+
+
+
+
+
+  
 
 ### Multimodalities
 
