@@ -197,6 +197,12 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F094be5e085ce8a2419b62df3808fafb33ed8d6fb%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/oxpig/CaLM?color=yellow&style=social)](https://github.com/oxpig/CaLM)
 
+* **Generative language modeling for antibody design**
+  
+  [![](https://img.shields.io/badge/Nature_Methods_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2021.12.13.472419v2.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F566eed4f8f3c476de7a97ea40ce919a9252c2b9e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/Graylab/IgLM?color=yellow&style=social)](https://github.com/Graylab/IgLM)
+
 
 
 
