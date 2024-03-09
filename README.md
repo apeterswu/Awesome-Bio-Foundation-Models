@@ -216,6 +216,14 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![Stars](https://img.shields.io/github/stars/mana438/RNABERT?color=yellow&style=social)](https://github.com/mana438/RNABERT)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/file/d/1sT6jlv9vrpX0npKmnbFeOqZ1JZDrZTQ2/view)
 
+* **(SpliceBERT) Self-supervised learning on millions of pre-mRNA sequences improves sequence-based RNA splicing prediction**
+  
+  [![](https://img.shields.io/badge/BioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/biorxiv/early/2023/02/03/2023.01.31.526427.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7d61be17885175d49b5b0e8030791a5ce7a49d2c%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/biomed-AI/SpliceBERT?color=yellow&style=social)](https://github.com/biomed-AI/SpliceBERT)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://zenodo.org/record/7995778/files/models.tar.gz?download=1)
+
+
 
 
 
