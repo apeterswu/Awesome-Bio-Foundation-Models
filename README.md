@@ -198,8 +198,23 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![Stars](https://img.shields.io/github/stars/automl/RNAformer?color=yellow&style=social)](https://github.com/automl/RNAformer)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/automl/RNAformer?tab=readme-ov-file#model-checkpoints)
 
+* **EMDLP: Ensemble multiscale deep learning model for RNA methylation site prediction**
   
+  [![](https://img.shields.io/badge/BMC_Bioinformatics_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04756-1)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F35ad83753f97f6d6b7340306c39571911a85c645%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/whl-cumt/EMDLP?color=yellow&style=social)](https://github.com/whl-cumt/EMDLP)
 
+* **Prediction of Multiple Types of RNA Modifications via Biological Language Model**
+  
+  [![](https://img.shields.io/badge/TCBB_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ieeexplore.ieee.org/document/10146457)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd1a764086615dc7fcf9ce065e47ffcebb10e14fc%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **(RNABERT) Informative RNA base embedding for RNA structural alignment and clustering by deep representation learning**
+  
+  [![](https://img.shields.io/badge/NAR_Genomcs_Bioinformatics_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ieeexplore.ieee.org/document/10146457)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6538421d45c27cbb9b655d86d1974d7886f8895e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/mana438/RNABERT?color=yellow&style=social)](https://github.com/mana438/RNABERT)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/file/d/1sT6jlv9vrpX0npKmnbFeOqZ1JZDrZTQ2/view)
 
 
 
