@@ -175,9 +175,30 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 
 * **Multiple sequence alignment-based RNA language model and its application to structural inference**
   
-  [![](https://img.shields.io/badge/Nature_Methods_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/nar/article/52/1/e3/7369930)
+  [![](https://img.shields.io/badge/Nucleic_Acids_Research_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/nar/article/52/1/e3/7369930)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa990b0604f64f3277e6b44299711f1ce44b8460a%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
+
+* **RiNALMo: General-Purpose RNA Language Models Can Generalize Well on Structure Prediction Tasks**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.00043v1.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb22934bb297d9db55259385bbb8cd8a0d29b4bd1%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/lbcb-sci/RiNALMo?color=yellow&style=social)](https://github.com/lbcb-sci/RiNALMo)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://zenodo.org/records/10725749)
+
+* **ATOM-1: A Foundation Model for RNA Structure and Function Built on Chemical Mapping Data**
+  
+  [![](https://img.shields.io/badge/BioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.12.13.571579v1.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd1b1b65c82880e9a4906659cbf25e4212c88b7a4%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **RNAformer: A Simple Yet Effective Deep LearningModel for RNA Secondary Structure Prediction**
+  
+  [![](https://img.shields.io/badge/BioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/biorxiv/early/2024/02/12/2024.02.12.579881.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff944577698a59e05a2b120837248d0bf77ac238b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/automl/RNAformer?color=yellow&style=social)](https://github.com/automl/RNAformer)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/automl/RNAformer?tab=readme-ov-file#model-checkpoints)
+
+  
 
 
 
