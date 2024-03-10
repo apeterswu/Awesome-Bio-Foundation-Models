@@ -244,6 +244,17 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe7523590ee2985701456ed25631653cc3359932c%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/clinicalml/sc-foundation-eval?color=yellow&style=social)](https://github.com/clinicalml/sc-foundation-eval)
   
+* **xTrimoGene: An Efficient and Scalable Representation Learner for Single-Cell RNA-Seq Data**
+  
+  [![](https://img.shields.io/badge/NeurIPS_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2311.15156.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F424132ec245c3173685751ac1101c3be6cc55a67%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  
+* **Clustering and classification methods for single-cell RNA-sequencing data**
+  
+  [![](https://img.shields.io/badge/Briefings_in_Bioinformatics_2020-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bib/article/21/4/1196/5528236)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd1d6a675197da4a3dad107f0a68b9f783d097743%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  
+  
 
 
 
@@ -376,6 +387,19 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F587547493b5cf221af4b929cf390ef81e9768937%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/vandijklab/cell2sentence-ft?color=yellow&style=social)](https://github.com/vandijklab/cell2sentence-ft)
 
+* **scVAE: variational auto-encoders for single-cell gene expression data**
+  
+  [![](https://img.shields.io/badge/Bioinformatics_2020-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bioinformatics/article/36/16/4415/5838187)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9de0901ddd7ca487d29aa1e21e6a979da62a62e3%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/scvae/scvae?color=yellow&style=social)](https://github.com/scvae/scvae)
+
+* **Modeling and analyzing single-cell multimodal data with deep parametric inference**
+  
+  [![](https://img.shields.io/badge/Bioinformatics_2020-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bib/article/24/1/bbad005/6987655)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcd4ee221073ecbaccec2a78e3031ffce271bc5753%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/studentiz/dpi?color=yellow&style=social)](https://github.com/studentiz/dpi)
+
+
 
 
 
@@ -434,6 +458,13 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   
   [![](https://img.shields.io/badge/NeurIPS_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=gN35BGa1Rt)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F63bdd821670a9a9880449f6ea5600d86f867fe31%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **Modeling and analyzing single-cell multimodal data with deep parametric inference**
+  
+  [![](https://img.shields.io/badge/Bioinformatics_2020-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bib/article/24/1/bbad005/6987655)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcd4ee221073ecbaccec2a78e3031ffce271bc5753%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/studentiz/dpi?color=yellow&style=social)](https://github.com/studentiz/dpi)
+
 
 
   
