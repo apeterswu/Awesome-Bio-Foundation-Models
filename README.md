@@ -3,7 +3,7 @@
 </h1>
 <div align="center">
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/QizhiPei/Awesome-Bio-Foundation-Models?color=yellow&labelColor=555555) 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/apeterswu/Awesome-Bio-Foundation-Models?color=yellow&labelColor=555555) 
 </div>
 
 The repository is a collection of awesome bio-foundation modeling papers, various domains include DNA, RNA, gene, protein, single-cell, and multimodalities.
