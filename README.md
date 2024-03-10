@@ -294,8 +294,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 * **Language models of protein sequences at the scale of evolution enable accurate structure prediction**
   
   [![](https://img.shields.io/badge/bioRxiv_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1.full.pdf)
-  [![Stars](https://img.shields.io/github/stars/facebookresearch/esm?color=yellow&style=social)](https://github.com/facebookresearch/esm)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/facebookresearch/esm)
+  
 
 * **ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing**
   
