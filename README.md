@@ -264,7 +264,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 
 
 ### Protein
-(also include antibody, peptide)
+
 * **ProtTrans: Towards Cracking the Language of Life’s Code Through Self-Supervised Deep Learning and High Performance Computing**
   
   [![](https://img.shields.io/badge/bioRxiv_2020-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.pnas.org/doi/epdf/10.1073/pnas.2016239118)
@@ -367,7 +367,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F95a3237bfbde1d312e943ab965351537c46643f7%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/oxpig/AbLang?color=yellow&style=social)](https://github.com/oxpig/AbLang)
   
-
+Protein foundation models are hot topics, more papers can be found in [Machine-Learning-for-Proteins](https://github.com/yangkky/Machine-learning-for-proteins), [Awesome-Protein-Representation-Learning](https://github.com/LirongWu/awesome-protein-representation-learning).
 
 
 
@@ -526,9 +526,6 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 
 
 
-  
-## Datasets & Benchmarks
-
 ## Related Resources
 
 ### Related Surveys & Evaluations
@@ -588,8 +585,22 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 
 
 ### Related Repositories
-* [awesome-deep-learning-single-cell-papers](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers)
+* [Machine-Learning-for-Proteins](https://github.com/yangkky/Machine-learning-for-proteins)
 * [Awesome-Scientific-Language-Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)
-* 
+* [Awesome-Biomolecule-Language-Cross-Modeling](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling)
+* [Awesome-Deep-Learning-Single-Cell-Papers](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers)
+* [Awesome-Protein-Representation-Learning](https://github.com/LirongWu/awesome-protein-representation-learning)
+* [Awesome-Molecule-Protein-Pretrain-Papers](https://github.com/OmicsML/awesome-molecule-protein-pretrain-papers)
+* [Awesome-Molecule-Text](https://github.com/Namkyeong/awesome-molecule-text)
+* [Awesome-Biology](https://github.com/raivivek/awesome-biology)
+* [Awesome-Single-Cell](https://github.com/seandavi/awesome-single-cell)
+* [Awesome-Computational-Biology](https://github.com/inoue0426/awesome-computational-biology)
+* [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
+* [Awesome-Multi-Omics](https://github.com/mikelove/awesome-multi-omics)
+* [Awesome-Docking](https://github.com/KyGao/awesome-docking)
+* [LLM4ScientificDiscovery](https://github.com/microsoft/LLM4ScientificDiscovery)
+* [LLM4Mol](https://github.com/HHW-zhou/LLM4Mol)
+* [Awesome-Pretrain-on-Molecules](https://github.com/junxia97/awesome-pretrain-on-molecules)
 
-## Acknowledgements
+
+
