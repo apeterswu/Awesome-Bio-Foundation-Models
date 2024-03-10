@@ -465,6 +465,19 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcd4ee221073ecbaccec2a78e3031ffce271bc5753%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/studentiz/dpi?color=yellow&style=social)](https://github.com/studentiz/dpi)
 
+* **Pretraining model for biological sequence data**
+  
+  [![](https://img.shields.io/badge/Briefings_in_Functional_Genomics_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bfg/article/20/3/181/6287893)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fff24b920d7a70e209c21f27274c22f8a0d5f6a7f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **Single-Cell Multimodal Prediction via Transformers**
+  
+  [![](https://img.shields.io/badge/CIKM_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://dl.acm.org/doi/abs/10.1145/3583780.3615061)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F194de20b4e1c5cd1978a05f192d492d2699db90%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/OmicsML/scMoFormer?color=yellow&style=social)](https://github.com/OmicsML/scMoFormer)
+
+
+
 
 
   
@@ -476,6 +489,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 
 ### Related Repositories
 * [awesome-deep-learning-single-cell-papers](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers)
+* [Awesome-Scientific-Language-Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)
 * 
 
 ## Acknowledgements
