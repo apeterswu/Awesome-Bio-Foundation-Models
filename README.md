@@ -8,7 +8,7 @@
 
 The repository is a collection of awesome bio-foundation modeling papers, various domains include DNA, RNA, gene, protein, single-cell, and multimodalities.
 
-🌟 **If you have a paper or resource you'd like to add, feel free to submit a pull request or open an issue.**
+<pre>🌟 If you have a paper or resource you'd like to add, feel free to submit a pull request or open an issue.</pre>
 
 <p align="center">
   <img src="biofm.png" width="512">
@@ -22,15 +22,13 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   - [Protein](#protein)
   - [Single-cell](#single-cell)
   - [Multimodalities](#multimodalities)
-- [Datasets & Benchmarks](datasets--benchmarks)
 - [Related Resources](#related-resources)
-  - [Related Surveys & Evaluations](#related-surveys--evaluations) 
+  - [Related Surveys](#related-surveys) 
   - [Repositories](#related-repositories)
-- [Acknowledgements](#acknowledgements)
 ---
 
 ## Models
-### DNA & Gene
+### <code>DNA & Gene</code>
 
 * **To Transformers and Beyond: Large Language Models for the Genome**
   
@@ -155,7 +153,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 
 
 
-### RNA
+### <code>RNA</code>
 
 * **scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data**
   
@@ -263,7 +261,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 
 
 
-### Protein
+### <code>Protein</code>
 
 * **ProtTrans: Towards Cracking the Language of Life’s Code Through Self-Supervised Deep Learning and High Performance Computing**
   
@@ -367,13 +365,13 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F95a3237bfbde1d312e943ab965351537c46643f7%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/oxpig/AbLang?color=yellow&style=social)](https://github.com/oxpig/AbLang)
   
-Protein foundation models are hot topics, more papers can be found in [Machine-Learning-for-Proteins](https://github.com/yangkky/Machine-learning-for-proteins), [Awesome-Protein-Representation-Learning](https://github.com/LirongWu/awesome-protein-representation-learning).
+***Protein foundation models are hot topics, more papers can be found in [Machine-Learning-for-Proteins](https://github.com/yangkky/Machine-learning-for-proteins), [Awesome-Protein-Representation-Learning](https://github.com/LirongWu/awesome-protein-representation-learning).***
 
 
 
 
 
-### Single-cell
+### <code>Single-cell</code>
 
 * **scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data**
   
@@ -451,7 +449,7 @@ Protein foundation models are hot topics, more papers can be found in [Machine-L
 
   
 
-### Multimodalities
+### <code>Multimodalities</code>
 
 * **Sequence modeling and design from molecular to genome scale with Evo**
   
@@ -528,7 +526,7 @@ Protein foundation models are hot topics, more papers can be found in [Machine-L
 
 ## Related Resources
 
-### Related Surveys & Evaluations
+### <code>Related Surveys</code>
 
 * **Progress and Opportunities of Foundation Models in Bioinformatics**
   
@@ -584,13 +582,14 @@ Protein foundation models are hot topics, more papers can be found in [Machine-L
 
 
 
-### Related Repositories
+### <code>Related Repositories</code>
 * [Machine-Learning-for-Proteins](https://github.com/yangkky/Machine-learning-for-proteins)
 * [Awesome-Scientific-Language-Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)
 * [Awesome-Biomolecule-Language-Cross-Modeling](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling)
 * [Awesome-Deep-Learning-Single-Cell-Papers](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers)
 * [Awesome-Protein-Representation-Learning](https://github.com/LirongWu/awesome-protein-representation-learning)
 * [Awesome-Molecule-Protein-Pretrain-Papers](https://github.com/OmicsML/awesome-molecule-protein-pretrain-papers)
+* [Awesome-Pretrain-on-Molecules](https://github.com/junxia97/awesome-pretrain-on-molecules)
 * [Awesome-Molecule-Text](https://github.com/Namkyeong/awesome-molecule-text)
 * [Awesome-Biology](https://github.com/raivivek/awesome-biology)
 * [Awesome-Single-Cell](https://github.com/seandavi/awesome-single-cell)
@@ -600,7 +599,7 @@ Protein foundation models are hot topics, more papers can be found in [Machine-L
 * [Awesome-Docking](https://github.com/KyGao/awesome-docking)
 * [LLM4ScientificDiscovery](https://github.com/microsoft/LLM4ScientificDiscovery)
 * [LLM4Mol](https://github.com/HHW-zhou/LLM4Mol)
-* [Awesome-Pretrain-on-Molecules](https://github.com/junxia97/awesome-pretrain-on-molecules)
+
 
 
 
