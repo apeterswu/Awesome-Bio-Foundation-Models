@@ -139,7 +139,17 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![](https://img.shields.io/badge/Nature_Communications_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://dl.acm.org/doi/pdf/10.1145/3535508.3545512)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F485afddba6de9a5bc6e0104e0b1d463000415c60%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   
+* **Single-cell gene expression prediction from DNA sequence at large contexts**
+  
+  [![](https://img.shields.io/badge/BioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/biorxiv/early/2023/07/28/2023.07.26.550634.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F51c85e0c2218d93a064beeccd2745059f1510171%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
+* **Effective gene expression prediction from sequence by integrating long-range interactions**
+  
+  [![](https://img.shields.io/badge/Nature_Methods_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-021-01252-x)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe12e837cb2e9baeaefdcab06fe1c75add8f46389%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/lucidrains/enformer-pytorch?color=yellow&style=social)](https://github.com/lucidrains/enformer-pytorch)
+  
 
 
 
@@ -332,15 +342,32 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   
   [![](https://img.shields.io/badge/Nature_Methods_2018-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/nmeth.4627?ref=https://githubhelp.com)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0a063d1ec630a7cecaad253c34f190cc2db2241e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-  [![Stars](https://img.shields.io/github/stars/idekerlab/DCell/?color=yellow&style=social)](https://github.com/idekerlab/DCell/)
+  [![Stars](https://img.shields.io/github/stars/idekerlab/DCell?color=yellow&style=social)](https://github.com/idekerlab/DCell/)
 
 * **A sandbox for prediction and integration of DNA, RNA, and proteins in single cells**
   
   [![](https://img.shields.io/badge/NeurIPS_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=gN35BGa1Rt)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F63bdd821670a9a9880449f6ea5600d86f867fe31%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
+* **scMulan: a multitask generative pre-trained language model for single-cell analysis**
+  
+  [![](https://img.shields.io/badge/BioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.01.25.577152v1.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9555e16ef7e644183181641af4091e94a418c72f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/SuperBianC/scMulan?color=yellow&style=social)](https://github.com/SuperBianC/scMulan)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/SuperBianC/scMulan?tab=readme-ov-file#quick-start)
 
+* **scDiffusion: conditional generation of high-quality single-cell data using diffusion model**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.semanticscholar.org/reader/ccb934cdcfbc69c75a5c57369bdf2ca43e1c0073)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fccb934cdcfbc69c75a5c57369bdf2ca43e1c0073%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/EperLuo/scDiffusion?color=yellow&style=social)](https://github.com/EperLuo/scDiffusion)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://zenodo.org/records/8286452)
 
+* **Cell2Sentence: Teaching Large Language Models the Language of Biology**
+  
+  [![](https://img.shields.io/badge/BioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/biorxiv/early/2023/09/14/2023.09.11.557287.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F587547493b5cf221af4b929cf390ef81e9768937%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/vandijklab/cell2sentence-ft?color=yellow&style=social)](https://github.com/vandijklab/cell2sentence-ft)
 
 
 
