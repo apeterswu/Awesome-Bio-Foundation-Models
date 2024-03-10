@@ -8,7 +8,7 @@
 
 The repository is a collection of awesome bio-foundation modeling papers, various domains include DNA, RNA, gene, protein, single-cell, and multimodalities.
 
-<pre>🌟 If you have a paper or resource you'd like to add, feel free to submit a pull request or open an issue.</pre>
+<pre>🌟 If you'd like to add a paper or resource, feel free to submit a pull request or open an issue.</pre>
 
 <p align="center">
   <img src="biofm.png" width="512">
