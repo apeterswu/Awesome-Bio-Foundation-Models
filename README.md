@@ -272,8 +272,21 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![Stars](https://img.shields.io/github/stars/agemagician/ProtTrans?color=yellow&style=social)](https://github.com/agemagician/ProtTrans)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/agemagician/ProtTrans)
 
+* **ProGen2: Exploring the boundaries of protein language models**
+  
+  [![](https://img.shields.io/badge/Cell_System_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.sciencedirect.com/science/article/abs/pii/S2405471223002727)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F26133033149afb4b45e5d0a4bd1dc712a236810e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/nadavbra/protein_bert?color=yellow&style=social)](https://github.com/nadavbra/protein_bert)
 
-* **Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences**
+* **ProteinBERT: a universal deep-learning model of protein sequence and function**
+  
+  [![](https://img.shields.io/badge/Bioinformatics_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bioinformatics/article/38/8/2102/6502274)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc07651110d3b98b63607557b57808d15d99013dd%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/salesforce/progen?color=yellow&style=social)](https://github.com/salesforce/progen)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/GrimSqueaker/proteinBERT)
+
+
+* **(ESM) Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences**
   
   [![](https://img.shields.io/badge/PNAS_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.pnas.org/doi/epdf/10.1073/pnas.2016239118)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F18a93dc1558bf9d7534d0b416633cebaf75c1145%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
@@ -322,6 +335,39 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![](https://img.shields.io/badge/Cell_System_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.cell.com/cell-systems/abstract/S2405-4712(24)00029-2)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9ffc8d59270b01def8bde81a8ec1d759a2029dbb%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/microsoft/protein-sequence-models?color=yellow&style=social)](https://github.com/microsoft/protein-sequence-models)
+
+* **Pre-training Antibody Language Models for Antigen-Specific Computational Antibody Design**
+  
+  [![](https://img.shields.io/badge/KDD_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://dl.acm.org/doi/abs/10.1145/3580305.3599468)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc4988e5f6f846afdfa9211406f64d22c8baafb13%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/KyGao/ABGNN?color=yellow&style=social)](https://github.com/KyGao/ABGNN)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/file/d/1gKHsWUt_uqfFOKbhJDKln9M6gp4Z2xWa/view?pli=1)
+
+* **Reprogramming Pretrained Language Models for Antibody Sequence Infilling**
+  
+  [![](https://img.shields.io/badge/ICML_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.mlr.press/v202/melnyk23a/melnyk23a.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F85dddb3f7cd102933115dedbfc8b23e514cff655%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/IBM/ReprogBERT?color=yellow&style=social)](https://github.com/IBM/ReprogBERT)
+  
+* **Deciphering the language of antibodies using self-supervised learning**
+  
+  [![](https://img.shields.io/badge/Patterns_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.cell.com/patterns/pdf/S2666-3899(22)00105-2.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff73fb924550c4545485b4100e0f6047f04280cb5%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/alchemab/antiberta?color=yellow&style=social)](https://github.com/alchemab/antiberta)
+  
+* **Parapred: antibody paratope prediction using convolutional and recurrent neural networks**
+  
+  [![](https://img.shields.io/badge/Bioinformatic_2018-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bioinformatics/article/34/17/2944/4972995?login=true)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff9fb17eedb5e935f863bbb11bec0ea5afedf57dd%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/eliberis/parapred?color=yellow&style=social)](https://github.com/eliberis/parapred)
+  
+* **AbLang: an antibody language model for completing antibody sequences**
+  
+  [![](https://img.shields.io/badge/Bioinformatics_Advances_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bioinformaticsadvances/article/2/1/vbac046/6609807?login=true)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F95a3237bfbde1d312e943ab965351537c46643f7%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/oxpig/AbLang?color=yellow&style=social)](https://github.com/oxpig/AbLang)
+  
+
 
 
 
@@ -486,6 +532,60 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 ## Related Resources
 
 ### Related Surveys & Evaluations
+
+* **Progress and Opportunities of Foundation Models in Bioinformatics**
+  
+  [![](https://img.shields.io/badge/CIKM_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/ftp/arxiv/papers/2402/2402.04286.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3dd1c7e4d30999a51188b7ef960c2380021c2547%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **Deep Learning for Genomics: From Early Neural Nets to Modern Large Language Models**
+  
+  [![](https://img.shields.io/badge/IJMS_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.mdpi.com/1422-0067/24/21/15858)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F21043e1f95495b89b9851de0cccad6177c4e60ad%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **Scientific Large Language Models: A Survey on Biological & Chemical Domains**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2401.14656.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F51ef6969ddae24a445d38df511d19a0efb81c3e6%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **Applications of transformer-based language models in bioinformatics: a survey**
+  
+  [![](https://img.shields.io/badge/Bioinformatics_Advances_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad001/6984737)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7389b6ebbf36f4d869a02e305e2ef52ad2c92264%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **Large language models in bioinformatics: applications and perspectives**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2401.04155.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7ac15691f5d870100fcfc9e5b6dc04b27c2b1b76%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **Best practices for single-cell analysis across modalities**
+  
+  [![](https://img.shields.io/badge/Nature_Review_Genetics_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41576-023-00586-w)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4a73897d6556e39ef156992b8959aa4b9e592deb%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2403.01528)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc90318dd9ce7a1b0a45d71ceeb555cee3896a618%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey**
+  
+  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2305.18703)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6847b9658f287f430098199cd81bf26308da13f9%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **Protein Language Models and Structure Prediction: Connection and Progression**
+  
+  [![](https://img.shields.io/badge/Arxiv_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2211.16742)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7821e7639ffaeea175422f35fae2eb1c095ed1a6%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **Learning the protein language: Evolution, structure, and function**
+  
+  [![](https://img.shields.io/badge/Cell_Systems_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.cell.com/cell-systems/pdf/S2405-4712(21)00203-9.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F67bbcc013a70b09652032623787dba6ab80740a7%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+
+
+
 
 ### Related Repositories
 * [awesome-deep-learning-single-cell-papers](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers)
