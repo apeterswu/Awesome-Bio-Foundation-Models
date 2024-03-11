@@ -583,6 +583,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 
 ### <code>Related Repositories</code>
 * [Machine-Learning-for-Proteins](https://github.com/yangkky/Machine-learning-for-proteins)
+* [Scientific-Large-Language-Models](https://github.com/HICAI-ZJU/Scientific-LLM-Survey/tree/main)
 * [Awesome-Scientific-Language-Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)
 * [Awesome-Biomolecule-Language-Cross-Modeling](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling)
 * [Awesome-Deep-Learning-Single-Cell-Papers](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers)
