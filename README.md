@@ -261,7 +261,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 * **CellPLM: Pre-training of Cell Language Model Beyond Single Cells**
   
   [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=BKXvPDekud)
-  [![Stars](https://img.shields.io/github/stars/DeepGraphLearning/ProtST?color=yellow&style=social)](https://github.com/OmicsML/CellPLM)
+  [![Stars](https://img.shields.io/github/stars/OmicsML/CellPLM?color=yellow&style=social)](https://github.com/OmicsML/CellPLM)
  
 
 
@@ -505,7 +505,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 * **CellPLM: Pre-training of Cell Language Model Beyond Single Cells**
   
   [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=BKXvPDekud)
-  [![Stars](https://img.shields.io/github/stars/DeepGraphLearning/ProtST?color=yellow&style=social)](https://github.com/OmicsML/CellPLM)
+  [![Stars](https://img.shields.io/github/stars/OmicsML/CellPLM?color=yellow&style=social)](https://github.com/OmicsML/CellPLM)
 
 
 
