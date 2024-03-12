@@ -269,12 +269,24 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 
 ### <code>Protein</code>
 
+* **(ESM) Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences**
+  
+  [![](https://img.shields.io/badge/PNAS_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.pnas.org/doi/epdf/10.1073/pnas.2016239118)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F18a93dc1558bf9d7534d0b416633cebaf75c1145%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/facebookresearch/esm?color=yellow&style=social)](https://github.com/facebookresearch/esm)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/facebookresearch/esm)
+
+* **(ESM-2 & ESMFold) Language models of protein sequences at the scale of evolution enable accurate structure prediction**
+  
+  [![](https://img.shields.io/badge/bioRxiv_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1.full.pdf)
+  [![Stars](https://img.shields.io/github/stars/facebookresearch/esm?color=yellow&style=social)](https://github.com/facebookresearch/esm)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/facebookresearch/esm)
+
 * **Evaluating Protein Transfer Learning with TAPE**
 
     [![](https://img.shields.io/badge/NeurIPS_2019-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper_files/paper/2019/hash/37f65c068b7723cd7809ee2d31d7861c-Abstract.html)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fec7c9b201fc1ce18b4e0131691c9418f519a71c5%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/songlab-cal/tape?color=yellow&style=social)](https://github.com/songlab-cal/tape)
-  
 
 * **ProtTrans: Towards Cracking the Language of Life’s Code Through Self-Supervised Deep Learning and High Performance Computing**
   
@@ -302,17 +314,6 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![Stars](https://img.shields.io/github/stars/salesforce/progen?color=yellow&style=social)](https://github.com/salesforce/progen)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/GrimSqueaker/proteinBERT)
 
-
-* **(ESM) Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences**
-  
-  [![](https://img.shields.io/badge/PNAS_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.pnas.org/doi/epdf/10.1073/pnas.2016239118)
-  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F18a93dc1558bf9d7534d0b416633cebaf75c1145%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-  [![Stars](https://img.shields.io/github/stars/facebookresearch/esm?color=yellow&style=social)](https://github.com/facebookresearch/esm)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/facebookresearch/esm)
-
-* **Language models of protein sequences at the scale of evolution enable accurate structure prediction**
-  
-  [![](https://img.shields.io/badge/bioRxiv_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1.full.pdf)
 
 * **SaProt: Protein Language Modeling with Structure-aware Vocabulary**
 
@@ -346,6 +347,21 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![](https://img.shields.io/badge/Nature_Method_2019-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-019-0598-1)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F06eb3c3ccae16fced2222f8a45877906f54f2164%3Ffields%3DcitationCount&query=%859.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/churchlab/UniRep?color=yellow&style=social)](https://github.com/churchlab/UniRep)
+
+* **Protein Representation Learning by Geometric Structure Pretraining**
+  
+    [![](https://img.shields.io/badge/ICLR_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=to3qCB3tOh9)
+
+* **ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts**
+  
+    [![](https://img.shields.io/badge/ICML_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2301.12040)
+    [![Stars](https://img.shields.io/github/stars/DeepGraphLearning/ProtST?color=yellow&style=social)]( https://github.com/DeepGraphLearning/ProtST)
+
+* **Pre-training Sequence, Structure, and Surface Features for Comprehensive Protein Representation Learning**
+  
+    [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=BEH4mGo7zP)
+    [![Stars](https://img.shields.io/github/stars/DeepGraphLearning/ProtST?color=yellow&style=social)]( https://github.com/DeepGraphLearning/ProtST)
+ 
 
 * **Codon language embeddings provide strong signals for use in protein engineering**
   
