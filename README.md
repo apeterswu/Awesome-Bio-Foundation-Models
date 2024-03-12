@@ -269,6 +269,13 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 
 ### <code>Protein</code>
 
+* **Evaluating Protein Transfer Learning with TAPE**
+
+    [![](https://img.shields.io/badge/NeurIPS_2019-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper_files/paper/2019/hash/37f65c068b7723cd7809ee2d31d7861c-Abstract.html)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fec7c9b201fc1ce18b4e0131691c9418f519a71c5%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/songlab-cal/tape?color=yellow&style=social)](https://github.com/songlab-cal/tape)
+  
+
 * **ProtTrans: Towards Cracking the Language of Life’s Code Through Self-Supervised Deep Learning and High Performance Computing**
   
   [![](https://img.shields.io/badge/bioRxiv_2020-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.pnas.org/doi/epdf/10.1073/pnas.2016239118)
@@ -280,6 +287,12 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   
   [![](https://img.shields.io/badge/Cell_System_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.sciencedirect.com/science/article/abs/pii/S2405471223002727)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F26133033149afb4b45e5d0a4bd1dc712a236810e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/nadavbra/protein_bert?color=yellow&style=social)](https://github.com/nadavbra/protein_bert)
+
+* **ProtGPT2 is a deep unsupervised language model for protein design**
+  
+  [![](https://img.shields.io/badge/Nature_Communications_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-022-32007-7)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdcb31b98ec58f3fff9f94f148e2952595f017fd9%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/nadavbra/protein_bert?color=yellow&style=social)](https://github.com/nadavbra/protein_bert)
 
 * **ProteinBERT: a universal deep-learning model of protein sequence and function**
@@ -300,8 +313,27 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 * **Language models of protein sequences at the scale of evolution enable accurate structure prediction**
   
   [![](https://img.shields.io/badge/bioRxiv_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1.full.pdf)
-  
 
+* **SaProt: Protein Language Modeling with Structure-aware Vocabulary**
+
+    [![](https://img.shields.io/badge/bioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v2)
+  
+* **xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein**
+
+    [![](https://img.shields.io/badge/bioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.07.05.547496v4)
+
+* **Ankh: Optimized Protein Language Model Unlocks General-Purpose Modelling**
+
+    [![](https://img.shields.io/badge/arXiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2301.06568)
+
+* **Language models enable zero-shot prediction of the effects of mutations on protein function**
+  
+    [![](https://img.shields.io/badge/NeurIPS 2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper/2021/hash/f51338d736f95dd42427296047067694-Abstract.html)
+
+* **OntoProtein: Protein Pretraining With Gene Ontology Embedding**
+  
+    [![](https://img.shields.io/badge/ICLR_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=yfe1VMYAXa4)
+  
 * **ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing**
   
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2402.16445v1)
@@ -370,7 +402,9 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F95a3237bfbde1d312e943ab965351537c46643f7%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/oxpig/AbLang?color=yellow&style=social)](https://github.com/oxpig/AbLang)
   
-***Protein foundation models are hot topics, more papers can be found in [Machine-Learning-for-Proteins](https://github.com/yangkky/Machine-learning-for-proteins), [Awesome-Protein-Representation-Learning](https://github.com/LirongWu/awesome-protein-representation-learning).***
+***Protein foundation models are hot topics, more papers can be found in***
+- [Machine-Learning-for-Proteins](https://github.com/yangkky/Machine-learning-for-proteins)
+- [Awesome-Protein-Representation-Learning](https://github.com/LirongWu/awesome-protein-representation-learning)
 
 
 
