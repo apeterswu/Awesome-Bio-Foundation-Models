@@ -328,7 +328,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 
 * **Language models enable zero-shot prediction of the effects of mutations on protein function**
   
-    [![](https://img.shields.io/badge/NeurIPS 2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper/2021/hash/f51338d736f95dd42427296047067694-Abstract.html)
+    [![](https://img.shields.io/badge/NeurIPS_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper/2021/hash/f51338d736f95dd42427296047067694-Abstract.html)
 
 * **OntoProtein: Protein Pretraining With Gene Ontology Embedding**
   
