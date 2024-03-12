@@ -327,7 +327,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 
     [![](https://img.shields.io/badge/arXiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2301.06568)
 
-* **Language models enable zero-shot prediction of the effects of mutations on protein function**
+* **(ESM-1v) Language models enable zero-shot prediction of the effects of mutations on protein function**
   
     [![](https://img.shields.io/badge/NeurIPS_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper/2021/hash/f51338d736f95dd42427296047067694-Abstract.html)
 
@@ -342,13 +342,13 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![Stars](https://img.shields.io/github/stars/Lyu6PosHao/ProLLaMA?color=yellow&style=social)](https://github.com/Lyu6PosHao/ProLLaMA)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/GreatCaptainNemo/ProLLaMA)
 
-* **Unified rational protein engineering with sequence-based deep representation learning**
+* **(UniRep) Unified rational protein engineering with sequence-based deep representation learning**
   
   [![](https://img.shields.io/badge/Nature_Method_2019-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-019-0598-1)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F06eb3c3ccae16fced2222f8a45877906f54f2164%3Ffields%3DcitationCount&query=%859.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/churchlab/UniRep?color=yellow&style=social)](https://github.com/churchlab/UniRep)
 
-* **Protein Representation Learning by Geometric Structure Pretraining**
+* **(GearNet) Protein Representation Learning by Geometric Structure Pretraining**
   
     [![](https://img.shields.io/badge/ICLR_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=to3qCB3tOh9)
 
@@ -357,7 +357,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
     [![](https://img.shields.io/badge/ICML_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2301.12040)
     [![Stars](https://img.shields.io/github/stars/DeepGraphLearning/ProtST?color=yellow&style=social)]( https://github.com/DeepGraphLearning/ProtST)
 
-* **Pre-training Sequence, Structure, and Surface Features for Comprehensive Protein Representation Learning**
+* **(ProteinINR) Pre-training Sequence, Structure, and Surface Features for Comprehensive Protein Representation Learning**
   
     [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=BEH4mGo7zP)
     [![Stars](https://img.shields.io/github/stars/DeepGraphLearning/ProtST?color=yellow&style=social)]( https://github.com/DeepGraphLearning/ProtST)
