@@ -257,8 +257,12 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![](https://img.shields.io/badge/Nature_Communications_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-024-45227-w)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9f209c3d12b9fd00a9d8599314afe2f3153a6202%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/ZhangLabGT/scDisInFact?color=yellow&style=social)](https://github.com/ZhangLabGT/scDisInFact)
+
+* **CellPLM: Pre-training of Cell Language Model Beyond Single Cells**
   
-  
+  [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=BKXvPDekud)
+  [![Stars](https://img.shields.io/github/stars/OmicsML/CellPLM?color=yellow&style=social)](https://github.com/OmicsML/CellPLM)
+ 
 
 
 
@@ -498,6 +502,10 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcd4ee221073ecbaccec2a78e3031ffce271bc5753%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/studentiz/dpi?color=yellow&style=social)](https://github.com/studentiz/dpi)
 
+* **CellPLM: Pre-training of Cell Language Model Beyond Single Cells**
+  
+  [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=BKXvPDekud)
+  [![Stars](https://img.shields.io/github/stars/OmicsML/CellPLM?color=yellow&style=social)](https://github.com/OmicsML/CellPLM)
 
 
 
