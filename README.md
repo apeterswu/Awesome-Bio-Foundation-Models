@@ -303,41 +303,53 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   
   [![](https://img.shields.io/badge/Cell_System_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.sciencedirect.com/science/article/abs/pii/S2405471223002727)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F26133033149afb4b45e5d0a4bd1dc712a236810e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-  [![Stars](https://img.shields.io/github/stars/nadavbra/protein_bert?color=yellow&style=social)](https://github.com/nadavbra/protein_bert)
+  [![Stars](https://img.shields.io/github/stars/salesforce/progen?color=yellow&style=social)](https://github.com/salesforce/progen)
 
 * **ProtGPT2 is a deep unsupervised language model for protein design**
   
   [![](https://img.shields.io/badge/Nature_Communications_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-022-32007-7)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdcb31b98ec58f3fff9f94f148e2952595f017fd9%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-  [![Stars](https://img.shields.io/github/stars/nadavbra/protein_bert?color=yellow&style=social)](https://github.com/nadavbra/protein_bert)
 
 * **ProteinBERT: a universal deep-learning model of protein sequence and function**
   
   [![](https://img.shields.io/badge/Bioinformatics_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bioinformatics/article/38/8/2102/6502274)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc07651110d3b98b63607557b57808d15d99013dd%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-  [![Stars](https://img.shields.io/github/stars/salesforce/progen?color=yellow&style=social)](https://github.com/salesforce/progen)
+  [![Stars](https://img.shields.io/github/stars/nadavbra/protein_bert?color=yellow&style=social)](https://github.com/nadavbra/protein_bert)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/GrimSqueaker/proteinBERT)
 
 
 * **SaProt: Protein Language Modeling with Structure-aware Vocabulary**
 
-    [![](https://img.shields.io/badge/bioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v2)
+  [![](https://img.shields.io/badge/bioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v2)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7bcdfc0759561118cd79667379c5d174e2a747f2%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/westlake-repl/SaProt?color=yellow&style=social)](https://github.com/westlake-repl/SaProt)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/westlake-repl/SaProt?tab=readme-ov-file#prepare-the-saprot-model)
   
 * **xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein**
 
-    [![](https://img.shields.io/badge/bioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.07.05.547496v4)
+  [![](https://img.shields.io/badge/bioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.07.05.547496v4)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc064c79e3026f81e5043cd5b0f4264b4d43336e6%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
 * **Ankh: Optimized Protein Language Model Unlocks General-Purpose Modelling**
 
-    [![](https://img.shields.io/badge/arXiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2301.06568)
+  [![](https://img.shields.io/badge/arXiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2301.06568)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1420b9ff9c7ecfc8c8b5fdce4517e6fc51cebf92%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/agemagician/Ankh?color=yellow&style=social)](https://github.com/agemagician/Ankh)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/ElnaggarLab)
+  
 
 * **(ESM-1v) Language models enable zero-shot prediction of the effects of mutations on protein function**
   
-    [![](https://img.shields.io/badge/NeurIPS_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper/2021/hash/f51338d736f95dd42427296047067694-Abstract.html)
+  [![](https://img.shields.io/badge/NeurIPS_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper/2021/hash/f51338d736f95dd42427296047067694-Abstract.html)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0cfce36622a017a86c2248ebe5dfdd0f8d643df7%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/facebookresearch/esm?color=yellow&style=social)](https://github.com/facebookresearch/esm)
 
 * **OntoProtein: Protein Pretraining With Gene Ontology Embedding**
   
-    [![](https://img.shields.io/badge/ICLR_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=yfe1VMYAXa4)
+  [![](https://img.shields.io/badge/ICLR_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=yfe1VMYAXa4)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F10be7d45b3736cb9eac13a0c07d00c7f8e4f84b4%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/zjunlp/OntoProtein?color=yellow&style=social)](https://huggingface.co/zjunlp/OntoProtein)
+  
   
 * **ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing**
   
@@ -354,17 +366,25 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 
 * **(GearNet) Protein Representation Learning by Geometric Structure Pretraining**
   
-    [![](https://img.shields.io/badge/ICLR_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=to3qCB3tOh9)
+  [![](https://img.shields.io/badge/ICLR_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=sTYuRVrdK3)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8cff389fe43532df60e10435d5957aa586c06684%3Ffields%3DcitationCount&query=%859.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **(ESM-GearNet) A Systematic Study of Joint Representation Learning on Protein Sequences and Structures**
+  
+  [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=to3qCB3tOh9)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6e98b85b1de486e0eee0371ae3f84ce87b62277d%3Ffields%3DcitationCount&query=%859.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/DeepGraphLearning/ESM-GearNet?color=yellow&style=social)](https://github.com/DeepGraphLearning/ESM-GearNet)
 
 * **ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts**
   
-    [![](https://img.shields.io/badge/ICML_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2301.12040)
-    [![Stars](https://img.shields.io/github/stars/DeepGraphLearning/ProtST?color=yellow&style=social)]( https://github.com/DeepGraphLearning/ProtST)
+  [![](https://img.shields.io/badge/ICML_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2301.12040)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4ea1f64c13280ef13f506eef4b3dd2395d1cf171%3Ffields%3DcitationCount&query=%859.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/DeepGraphLearning/ProtST?color=yellow&style=social)](https://github.com/DeepGraphLearning/ProtST)
 
 * **(ProteinINR) Pre-training Sequence, Structure, and Surface Features for Comprehensive Protein Representation Learning**
   
-    [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=BEH4mGo7zP)
-    [![Stars](https://img.shields.io/github/stars/DeepGraphLearning/ProtST?color=yellow&style=social)]( https://github.com/DeepGraphLearning/ProtST)
+  [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=BEH4mGo7zP)
+  [![Stars](https://img.shields.io/github/stars/DeepGraphLearning/ProtST?color=yellow&style=social)](https://github.com/DeepGraphLearning/ProtST)
  
 
 * **Codon language embeddings provide strong signals for use in protein engineering**
