@@ -142,7 +142,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![](https://img.shields.io/badge/BioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/biorxiv/early/2023/07/28/2023.07.26.550634.full.pdf)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F51c85e0c2218d93a064beeccd2745059f1510171%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
-* **Effective gene expression prediction from sequence by integrating long-range interactions**
+* **(Enformer) Effective gene expression prediction from sequence by integrating long-range interactions**
   
   [![](https://img.shields.io/badge/Nature_Methods_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-021-01252-x)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe12e837cb2e9baeaefdcab06fe1c75add8f46389%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
