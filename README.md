@@ -168,7 +168,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1b539f1e4a8df6fcb5569348ebbbc44c8ee8fe04%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/TencentAILabHealthcare/scBERT?color=yellow&style=social)](https://github.com/Kevis9/scPML)
 
-* **Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions**
+* **(RNA-FM) Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions**
   
   [![](https://img.shields.io/badge/Arxiv_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2204.00300.pdf)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F07264347e959913a6ea37953d9c0e30ed4efb3ba%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
