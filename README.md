@@ -212,7 +212,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F35ad83753f97f6d6b7340306c39571911a85c645%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/whl-cumt/EMDLP?color=yellow&style=social)](https://github.com/whl-cumt/EMDLP)
 
-* **Prediction of Multiple Types of RNA Modifications via Biological Language Model**
+* **(MRM-BERT) Prediction of Multiple Types of RNA Modifications via Biological Language Model**
   
   [![](https://img.shields.io/badge/TCBB_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ieeexplore.ieee.org/document/10146457)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd1a764086615dc7fcf9ce065e47ffcebb10e14fc%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
