@@ -231,7 +231,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![Stars](https://img.shields.io/github/stars/biomed-AI/SpliceBERT?color=yellow&style=social)](https://github.com/biomed-AI/SpliceBERT)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://zenodo.org/record/7995778/files/models.tar.gz?download=1)
 
-* **UNI-RNA: UNIVERSAL PRE-TRAINED MODELS REVOLUTIONIZE RNA RESEARCH**
+* **UNI-RNA: universal pre-trained models revolutionize RNA research**
   
   [![](https://img.shields.io/badge/BioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/biorxiv/early/2023/07/12/2023.07.11.548588.full.pdf)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc251a49dbef6f49c964658b87c7639cbf8aa503e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
@@ -286,7 +286,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![Stars](https://img.shields.io/github/stars/facebookresearch/esm?color=yellow&style=social)](https://github.com/facebookresearch/esm)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/facebookresearch/esm)
 
-* **Evaluating Protein Transfer Learning with TAPE**
+* **(TAPE) Evaluating Protein Transfer Learning with TAPE**
 
     [![](https://img.shields.io/badge/NeurIPS_2019-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper_files/paper/2019/hash/37f65c068b7723cd7809ee2d31d7861c-Abstract.html)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fec7c9b201fc1ce18b4e0131691c9418f519a71c5%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
@@ -387,13 +387,13 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![Stars](https://img.shields.io/github/stars/DeepGraphLearning/ProtST?color=yellow&style=social)](https://github.com/DeepGraphLearning/ProtST)
  
 
-* **Codon language embeddings provide strong signals for use in protein engineering**
+* **(CaLM) Codon language embeddings provide strong signals for use in protein engineering**
   
   [![](https://img.shields.io/badge/Nature_Methods_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s42256-024-00791-0)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F094be5e085ce8a2419b62df3808fafb33ed8d6fb%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/oxpig/CaLM?color=yellow&style=social)](https://github.com/oxpig/CaLM)
 
-* **Generative language modeling for antibody design**
+* **(IgLM) Generative language modeling for antibody design**
   
   [![](https://img.shields.io/badge/MLSB_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2021.12.13.472419v2.full.pdf)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F566eed4f8f3c476de7a97ea40ce919a9252c2b9e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
@@ -405,26 +405,26 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1675abb8bd2f6725cbdab46f8c406c4278a923df%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/brianhie/efficient-evolution?color=yellow&style=social)](https://github.com/brianhie/efficient-evolution)
 
-* **Convolutions are competitive with transformers for protein sequence pretraining**
+* **(CARP) Convolutions are competitive with transformers for protein sequence pretraining**
   
   [![](https://img.shields.io/badge/Cell_System_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.cell.com/cell-systems/abstract/S2405-4712(24)00029-2)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9ffc8d59270b01def8bde81a8ec1d759a2029dbb%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/microsoft/protein-sequence-models?color=yellow&style=social)](https://github.com/microsoft/protein-sequence-models)
 
-* **Pre-training Antibody Language Models for Antigen-Specific Computational Antibody Design**
+* **(ABGNN) Pre-training Antibody Language Models for Antigen-Specific Computational Antibody Design**
   
   [![](https://img.shields.io/badge/KDD_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://dl.acm.org/doi/abs/10.1145/3580305.3599468)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc4988e5f6f846afdfa9211406f64d22c8baafb13%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/KyGao/ABGNN?color=yellow&style=social)](https://github.com/KyGao/ABGNN)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/file/d/1gKHsWUt_uqfFOKbhJDKln9M6gp4Z2xWa/view?pli=1)
 
-* **Reprogramming Pretrained Language Models for Antibody Sequence Infilling**
+* **(ReprogBert) Reprogramming Pretrained Language Models for Antibody Sequence Infilling**
   
   [![](https://img.shields.io/badge/ICML_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.mlr.press/v202/melnyk23a/melnyk23a.pdf)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F85dddb3f7cd102933115dedbfc8b23e514cff655%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/IBM/ReprogBERT?color=yellow&style=social)](https://github.com/IBM/ReprogBERT)
   
-* **Deciphering the language of antibodies using self-supervised learning**
+* **(AntiBERTa) Deciphering the language of antibodies using self-supervised learning**
   
   [![](https://img.shields.io/badge/Patterns_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.cell.com/patterns/pdf/S2666-3899(22)00105-2.pdf)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff73fb924550c4545485b4100e0f6047f04280cb5%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
@@ -472,14 +472,14 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![Stars](https://img.shields.io/github/stars/bowang-lab/scGPT?color=yellow&style=social)](https://github.com/bowang-lab/scGPT)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/bowang-lab/scGPT?tab=readme-ov-file#pretrained-scgpt-model-zoo)
 
-* **Large Scale Foundation Model on Single-cell Transcriptomics**
+* **(scFoundation) Large Scale Foundation Model on Single-cell Transcriptomics**
   
   [![](https://img.shields.io/badge/BioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.05.29.542705v4.full.pdf)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc520d8a888355f7abb7728b2e2510fe7bc63f814%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/biomap-research/scFoundation?color=yellow&style=social)](https://github.com/biomap-research/scFoundation)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/biomap-research/scFoundation/tree/main/model#2-inference)
 
-* **Using deep learning to model the hierarchical structure and function of a cell**
+* **(DCell) Using deep learning to model the hierarchical structure and function of a cell**
   
   [![](https://img.shields.io/badge/Nature_Methods_2018-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/nmeth.4627?ref=https://githubhelp.com)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0a063d1ec630a7cecaad253c34f190cc2db2241e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
@@ -516,7 +516,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9de0901ddd7ca487d29aa1e21e6a979da62a62e3%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/scvae/scvae?color=yellow&style=social)](https://github.com/scvae/scvae)
 
-* **Modeling and analyzing single-cell multimodal data with deep parametric inference**
+* **(DPI) Modeling and analyzing single-cell multimodal data with deep parametric inference**
   
   [![](https://img.shields.io/badge/Bioinformatics_2020-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bib/article/24/1/bbad005/6987655)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcd4ee221073ecbaccec2a78e3031ffce271bc5753%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
@@ -535,7 +535,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 
 ### <code>Multimodalities</code>
 
-* **Sequence modeling and design from molecular to genome scale with Evo**
+* **(Evo) Sequence modeling and design from molecular to genome scale with Evo**
   
   [![](https://img.shields.io/badge/BioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/biorxiv/early/2024/02/27/2024.02.27.582234.full.pdf)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F25d209a50ce052fc4d92e00133bba3d320479f0d%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
@@ -587,7 +587,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![](https://img.shields.io/badge/NeurIPS_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=gN35BGa1Rt)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F63bdd821670a9a9880449f6ea5600d86f867fe31%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
-* **Modeling and analyzing single-cell multimodal data with deep parametric inference**
+* **(DPI) Modeling and analyzing single-cell multimodal data with deep parametric inference**
   
   [![](https://img.shields.io/badge/Bioinformatics_2020-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bib/article/24/1/bbad005/6987655)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcd4ee221073ecbaccec2a78e3031ffce271bc5753%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
@@ -598,7 +598,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   [![](https://img.shields.io/badge/Briefings_in_Functional_Genomics_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bfg/article/20/3/181/6287893)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fff24b920d7a70e209c21f27274c22f8a0d5f6a7f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
-* **Single-Cell Multimodal Prediction via Transformers**
+* **(scMoFormer) Single-Cell Multimodal Prediction via Transformers**
   
   [![](https://img.shields.io/badge/CIKM_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://dl.acm.org/doi/abs/10.1145/3583780.3615061)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F194de20b4e1c5cd1978a05f192d492d2699db90%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
