@@ -181,7 +181,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F74ae117a5033fed1fa226bb5e8a85e419ed62057%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/Shunsuke-1994/rfamgen?color=yellow&style=social)](https://github.com/Shunsuke-1994/rfamgen)
 
-* **Multiple sequence alignment-based RNA language model and its application to structural inference**
+* **(RNA-MFM) Multiple sequence alignment-based RNA language model and its application to structural inference**
   
   [![](https://img.shields.io/badge/Nucleic_Acids_Research_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/nar/article/52/1/e3/7369930)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa990b0604f64f3277e6b44299711f1ce44b8460a%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
