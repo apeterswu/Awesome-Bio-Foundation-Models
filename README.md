@@ -679,6 +679,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 * [Awesome-Molecule-Protein-Pretrain-Papers](https://github.com/OmicsML/awesome-molecule-protein-pretrain-papers)
 * [Awesome-Pretrain-on-Molecules](https://github.com/junxia97/awesome-pretrain-on-molecules)
 * [Awesome-Molecule-Text](https://github.com/Namkyeong/awesome-molecule-text)
+* [Aswesome-Deep-Learing-for-Life-Sciences](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences)
 * [Awesome-Docking](https://github.com/KyGao/awesome-docking)
 * [Awesome-Biology](https://github.com/raivivek/awesome-biology)
 * [Awesome-Single-Cell](https://github.com/seandavi/awesome-single-cell)
