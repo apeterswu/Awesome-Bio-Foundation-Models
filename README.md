@@ -444,9 +444,17 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F094be5e085ce8a2419b62df3808fafb33ed8d6fb%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/oxpig/CaLM?color=yellow&style=social)](https://github.com/oxpig/CaLM)
 
+* **(DeepGo) Protein function prediction as approximate semantic entailment**
+  
+  [![](https://img.shields.io/badge/Nature_Methods_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s42256-024-00795-w.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F20af9061bbdbb37b6dd9297f065de9d2dc513f10%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/bio-ontology-research-group/deepgo2?color=yellow&style=social)](https://github.com/bio-ontology-research-group/deepgo2)
+
+
 ***Protein foundation models are hot topics, more papers can be found in***
 - [Machine-Learning-for-Proteins](https://github.com/yangkky/Machine-learning-for-proteins)
 - [Awesome-Protein-Representation-Learning](https://github.com/LirongWu/awesome-protein-representation-learning)
+
 
 
 
