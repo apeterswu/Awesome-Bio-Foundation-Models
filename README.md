@@ -497,6 +497,13 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcd4ee221073ecbaccec2a78e3031ffce271bc5753%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/studentiz/dpi?color=yellow&style=social)](https://github.com/studentiz/dpi)
 
+* **(ScPROTEIN) A Versatile Deep Graph Contrastive Learning Framework for Single-cell Proteomics Embedding**
+  
+  [![](https://img.shields.io/badge/Nature_Methods_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-024-02214-9)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fca14faebe3a707a2c72583c48b5e66b9f4a770ef%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/TencentAILabHealthcare/scPROTEIN?color=yellow&style=social)](https://github.com/TencentAILabHealthcare/scPROTEIN)
+  
+
 * **scGPT: toward building a foundation model for single-cell multi-omics using generative AI**
   
   [![](https://img.shields.io/badge/Nature_Methods_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-024-02201-0?fromPaywallRec=true)
