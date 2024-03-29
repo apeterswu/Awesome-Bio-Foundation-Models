@@ -276,7 +276,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   
   [![](https://img.shields.io/badge/Nature_Methods_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-024-02235-4)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdf9329a37002e860d45617e36ddefd39e97f4c28%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-  [![Stars](https://img.shields.io/github/stars/OmicsML/CellPLM?color=yellow&style=social)](https://github.com/Winnie09/GPTCelltype_Paper)
+  [![Stars](https://img.shields.io/github/stars/Winnie09/GPTCelltype_Paper?color=yellow&style=social)](https://github.com/Winnie09/GPTCelltype_Paper)
 
 
 
@@ -561,7 +561,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   
   [![](https://img.shields.io/badge/Nature_Methods_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-024-02235-4)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdf9329a37002e860d45617e36ddefd39e97f4c28%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-  [![Stars](https://img.shields.io/github/stars/OmicsML/CellPLM?color=yellow&style=social)](https://github.com/Winnie09/GPTCelltype_Paper)
+  [![Stars](https://img.shields.io/github/stars/Winnie09/GPTCelltype_Paper?color=yellow&style=social)](https://github.com/Winnie09/GPTCelltype_Paper)
 
 
 
