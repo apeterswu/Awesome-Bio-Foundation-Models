@@ -469,6 +469,13 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F20af9061bbdbb37b6dd9297f065de9d2dc513f10%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/bio-ontology-research-group/deepgo2?color=yellow&style=social)](https://github.com/bio-ontology-research-group/deepgo2)
 
+* **PLMSearch: Protein language model powers accurate and fast sequence search for remote homology**
+  
+  [![](https://img.shields.io/badge/Nature_Machine_Intelligence_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-024-46808-5)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2b2e5864999f2f5153434ca399c8cc2be5fbbbb8%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/maovshao/PLMSearch?color=yellow&style=social)](https://github.com/maovshao/PLMSearch)
+
+
 
 ***Protein foundation models are hot topics, more papers can be found in***
 - [Machine-Learning-for-Proteins](https://github.com/yangkky/Machine-learning-for-proteins)
