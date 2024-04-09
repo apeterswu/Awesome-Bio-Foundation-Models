@@ -291,10 +291,11 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6697fd951632a4df108f81d45a1308cdd97ba2e9%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/a96123155/UTR-LM?color=yellow&style=social)](https://github.com/a96123155/UTR-LM)
 
+* **ERNIE-RNA: An RNA Language Model with Structure-enhanced Representations**
 
-
-
-
+  [![](https://img.shields.io/badge/BioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.03.17.585376v1)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa91773f7c81dac17bef8361babde871c88ed688b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/Bruce-ywj/ERNIE-RNA?color=yellow&style=social)](https://github.com/Bruce-ywj/ERNIE-RNA)
 
 
 
