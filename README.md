@@ -285,6 +285,11 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdf9329a37002e860d45617e36ddefd39e97f4c28%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/Winnie09/GPTCelltype_Paper?color=yellow&style=social)](https://github.com/Winnie09/GPTCelltype_Paper)
 
+* **A 5′ UTR language model for decoding untranslated regions of mRNA and function predictions**
+  
+  [![](https://img.shields.io/badge/Nature_Machine_Intelligence_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s42256-024-00823-9)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6697fd951632a4df108f81d45a1308cdd97ba2e9%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/a96123155/UTR-LM?color=yellow&style=social)](https://github.com/a96123155/UTR-LM)
 
 
 
