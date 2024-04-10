@@ -34,7 +34,7 @@ The following logo represents:
 
 ![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555) code link
 
-[![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)] model link
+![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555) model link
 ### <code>DNA & Gene</code>
 
 * **(Enformer) Effective gene expression prediction from sequence by integrating long-range interactions**
