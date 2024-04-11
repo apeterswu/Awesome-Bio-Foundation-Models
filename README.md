@@ -480,7 +480,7 @@ The following logo represents:
   [![Stars](https://img.shields.io/github/stars/microsoft/protein-sequence-models?color=yellow&style=social)](https://github.com/microsoft/protein-sequence-models)
 
 
-* **A method for multiple-sequence-alignment-free protein structure prediction using a protein language model**
+* **(HelixFold-Single) A method for multiple-sequence-alignment-free protein structure prediction using a protein language model**
   
   [![](https://img.shields.io/badge/Nature_Machine_Intelligence_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s42256-023-00721-6)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe4bb31168472e7f2b391a6c17ebe3171592713f3%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
