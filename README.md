@@ -479,6 +479,15 @@ The following logo represents:
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/microsoft/protein-sequence-models)
   [![Stars](https://img.shields.io/github/stars/microsoft/protein-sequence-models?color=yellow&style=social)](https://github.com/microsoft/protein-sequence-models)
 
+
+* **A method for multiple-sequence-alignment-free protein structure prediction using a protein language model**
+  
+  [![](https://img.shields.io/badge/Nature_Machine_Intelligence_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s42256-023-00721-6)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe4bb31168472e7f2b391a6c17ebe3171592713f3%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold-single)
+  [![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleHelix?color=yellow&style=social)](https://github.com/PaddlePaddle/PaddleHelix)
+
+
 * **(ABGNN) Pre-training Antibody Language Models for Antigen-Specific Computational Antibody Design**
   
   [![](https://img.shields.io/badge/KDD_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://dl.acm.org/doi/abs/10.1145/3580305.3599468)
