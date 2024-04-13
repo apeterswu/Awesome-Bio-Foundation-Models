@@ -35,6 +35,9 @@ The following logo represents:
 ![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555) code link
 
 ![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555) model link
+
+Papers are ranked chronologically.
+
 ### <code>DNA & Gene</code>
 
 * **(Enformer) Effective gene expression prediction from sequence by integrating long-range interactions**
@@ -100,23 +103,6 @@ The following logo represents:
   [![Stars](https://img.shields.io/github/stars/jerryji1993/DNABERT?color=yellow&style=social)](https://github.com/jerryji1993/DNABERT)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/jerryji1993/DNABERT?tab=readme-ov-file#32-download-pre-trained-dnabert)
 
-* **DNABERT-2: Efficient Foundation Model and Benchmark for Multi-Species Genome**
-  
-  [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=oMLQB4EZE1&referrer=%5Bthe%20profile%20of%20Ramana%20V%20Davuluri%5D(%2Fprofile%3Fid%3D~Ramana_V_Davuluri1))
-  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd466fad9e1fe3edb1644d8ba8b906383c36abcea%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/MAGICS-LAB/DNABERT_2)
-  [![Stars](https://img.shields.io/github/stars/MAGICS-LAB/DNABERT_2?color=yellow&style=social)](https://github.com/MAGICS-LAB/DNABERT_2)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zhihan1996/DNABERT-2-117M)
-
-* **DNABERT-S: Learning Species-Aware DNA Embedding with Genome Foundation Models**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2402.08777)
-  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbc8d58fcb7dbf6cc4942eda901a54412b2018a89%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/MAGICS-LAB/DNABERT_S)
-  [![Stars](https://img.shields.io/github/stars/MAGICS-LAB/DNABERT_S?color=yellow&style=social)](https://github.com/MAGICS-LAB/DNABERT_S)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zhihan1996/DNABERT-S)
-
-
 * **Species-aware DNA language modeling**
   
   [![](https://img.shields.io/badge/BioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.01.26.525670v1)
@@ -169,6 +155,22 @@ The following logo represents:
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/instadeepai/nucleotide-transformer)
   [![Stars](https://img.shields.io/github/stars/instadeepai/nucleotide-transformer?color=yellow&style=social)](https://github.com/instadeepai/nucleotide-transformer)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/InstaDeepAI/nucleotide-transformer-65099cdde13ff96230f2e592)
+
+* **DNABERT-2: Efficient Foundation Model and Benchmark for Multi-Species Genome**
+  
+  [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=oMLQB4EZE1&referrer=%5Bthe%20profile%20of%20Ramana%20V%20Davuluri%5D(%2Fprofile%3Fid%3D~Ramana_V_Davuluri1))
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd466fad9e1fe3edb1644d8ba8b906383c36abcea%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/MAGICS-LAB/DNABERT_2)
+  [![Stars](https://img.shields.io/github/stars/MAGICS-LAB/DNABERT_2?color=yellow&style=social)](https://github.com/MAGICS-LAB/DNABERT_2)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zhihan1996/DNABERT-2-117M)
+
+* **DNABERT-S: Learning Species-Aware DNA Embedding with Genome Foundation Models**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2402.08777)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbc8d58fcb7dbf6cc4942eda901a54412b2018a89%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/MAGICS-LAB/DNABERT_S)
+  [![Stars](https://img.shields.io/github/stars/MAGICS-LAB/DNABERT_S?color=yellow&style=social)](https://github.com/MAGICS-LAB/DNABERT_S)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zhihan1996/DNABERT-S)
 
 * **Single-cell gene expression prediction from DNA sequence at large contexts**
   
