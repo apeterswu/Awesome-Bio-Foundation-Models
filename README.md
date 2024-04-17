@@ -180,7 +180,7 @@ Papers are ranked chronologically.
 * **Genomic language model predicts protein co-regulation and function**
   
   [![](https://img.shields.io/badge/Nature_Communications_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-024-46947-9)
-  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F51c85e0c2218d93a064beeccd2745059f1510171%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6dc8994fe2f4f763c6c7ad2df54dc148eaa46457%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/y-hwang/gLM)
   [![Stars](https://img.shields.io/github/stars/y-hwang/gLM?color=yellow&style=social)](https://github.com/y-hwang/gLM)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://zenodo.org/record/7855545)
@@ -563,7 +563,7 @@ Papers are ranked chronologically.
 * **Genomic language model predicts protein co-regulation and function**
   
   [![](https://img.shields.io/badge/Nature_Communications_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-024-46947-9)
-  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F51c85e0c2218d93a064beeccd2745059f1510171%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6dc8994fe2f4f763c6c7ad2df54dc148eaa46457%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/y-hwang/gLM)
   [![Stars](https://img.shields.io/github/stars/y-hwang/gLM?color=yellow&style=social)](https://github.com/y-hwang/gLM)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://zenodo.org/record/7855545)
