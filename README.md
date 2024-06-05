@@ -568,6 +568,13 @@ Papers are ranked chronologically.
   [![Stars](https://img.shields.io/github/stars/y-hwang/gLM?color=yellow&style=social)](https://github.com/y-hwang/gLM)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://zenodo.org/record/7855545)
 
+* **Prot2Token: A multi-task framework for protein language processing using autoregressive language modeling**
+  
+  [![](https://img.shields.io/badge/bioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.05.31.596915v1.full.pdf)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/mahdip72/prot2token)
+  [![Stars](https://img.shields.io/github/stars/mahdip72/prot2token?color=yellow&style=social)](https://github.com/mahdip72/prot2token)
+
+
 
 
 ***Protein foundation models are hot topics, more papers can be found in***
