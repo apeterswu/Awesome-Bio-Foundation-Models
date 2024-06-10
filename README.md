@@ -857,11 +857,9 @@ Papers are ranked chronologically.
 * [Awesome-Biology](https://github.com/raivivek/awesome-biology)
 * [Awesome-Single-Cell](https://github.com/seandavi/awesome-single-cell)
 * [Awesome-Computational-Biology](https://github.com/inoue0426/awesome-computational-biology)
-* [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 * [Awesome-Multi-Omics](https://github.com/mikelove/awesome-multi-omics)
 * [LLM4ScientificDiscovery](https://github.com/microsoft/LLM4ScientificDiscovery)
-* [LLM4Mol](https://github.com/HHW-zhou/LLM4Mol)
-
+* [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 
 
 
