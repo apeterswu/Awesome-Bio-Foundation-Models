@@ -574,6 +574,13 @@ Papers are ranked chronologically.
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/mahdip72/prot2token)
   [![Stars](https://img.shields.io/github/stars/mahdip72/prot2token?color=yellow&style=social)](https://github.com/mahdip72/prot2token)
 
+* **(ESM-3) Simulating 500 million years of evolution with a language model**
+  
+  [![](https://img.shields.io/badge/bioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://evolutionaryscale-public.s3.us-east-2.amazonaws.com/research/esm3.pdf)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/evolutionaryscale/esm)
+  [![Stars](https://img.shields.io/github/stars/evolutionaryscale/esm?color=yellow&style=social)](https://github.com/evolutionaryscale/esm)
+
+
 
 
 
