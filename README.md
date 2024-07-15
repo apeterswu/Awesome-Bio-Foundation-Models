@@ -580,9 +580,10 @@ Papers are ranked chronologically.
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/evolutionaryscale/esm)
   [![Stars](https://img.shields.io/github/stars/evolutionaryscale/esm?color=yellow&style=social)](https://github.com/evolutionaryscale/esm)
 
-
-
-
+* **Training Compute-Optimal Protein Language Models**
+  
+  [![](https://img.shields.io/badge/bioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.06.06.597716v1)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F72f62583ef626cb5f287319af7b6c5e0d5de8ec4%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
 ***Protein foundation models are hot topics, more papers can be found in***
 - [Machine-Learning-for-Proteins](https://github.com/yangkky/Machine-learning-for-proteins)
