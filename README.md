@@ -589,12 +589,20 @@ Papers are ranked chronologically.
   
   [![](https://img.shields.io/badge/bioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.12.13.571462v2.full)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/RSchmirler/data-repo_plm-finetune-eval)
+  [![Stars](https://img.shields.io/github/stars/RSchmirler/data-repo_plm-finetune-eval?color=yellow&style=social)](https://github.com/RSchmirler/data-repo_plm-finetune-eval)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F51dfa6b6363aee7bfab8b529eba1ec4df20cee6b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
 * **Contextual AI models for single-cell protein biology**
   
   [![](https://img.shields.io/badge/Nature_Methods_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-024-02341-3)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/mims-harvard/PINNACLE)
+  [![Stars](https://img.shields.io/github/stars/mims-harvard/PINNACLE?color=yellow&style=social)](https://github.com/mims-harvard/PINNACLE)
+  
+* **Sequence-to-sequence translation from mass spectra to peptides with a transformer model**
+  
+  [![](https://img.shields.io/badge/Nature_Communcations_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-024-49731-x)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Noble-Lab/casanovo)
+  [![Stars](https://img.shields.io/github/stars/Noble-Lab/casanovo?color=yellow&style=social)](https://github.com/Noble-Lab/casanovo)
   
 
 
