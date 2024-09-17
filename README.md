@@ -579,6 +579,7 @@ Papers are ranked chronologically.
 * **Prot2Token: A multi-task framework for protein language processing using autoregressive language modeling**
   
   [![](https://img.shields.io/badge/bioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.05.31.596915v1.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F96a02ecb6ee1f31718f539a5b811451b7acd3754%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/mahdip72/prot2token)
   [![Stars](https://img.shields.io/github/stars/mahdip72/prot2token?color=yellow&style=social)](https://github.com/mahdip72/prot2token)
 
