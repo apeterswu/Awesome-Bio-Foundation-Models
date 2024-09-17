@@ -585,6 +585,7 @@ Papers are ranked chronologically.
 * **(ESM-3) Simulating 500 million years of evolution with a language model**
   
   [![](https://img.shields.io/badge/bioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://evolutionaryscale-public.s3.us-east-2.amazonaws.com/research/esm3.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe220a3fcf47a63e4a5cddf83b480c4a1360e0366%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/evolutionaryscale/esm)
   [![Stars](https://img.shields.io/github/stars/evolutionaryscale/esm?color=yellow&style=social)](https://github.com/evolutionaryscale/esm)
 
@@ -603,14 +604,17 @@ Papers are ranked chronologically.
 * **Contextual AI models for single-cell protein biology**
   
   [![](https://img.shields.io/badge/Nature_Methods_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-024-02341-3)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc4366fd7747408cd2a16c02892ccc612f601ce05%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/mims-harvard/PINNACLE)
   [![Stars](https://img.shields.io/github/stars/mims-harvard/PINNACLE?color=yellow&style=social)](https://github.com/mims-harvard/PINNACLE)
   
 * **Sequence-to-sequence translation from mass spectra to peptides with a transformer model**
   
   [![](https://img.shields.io/badge/Nature_Communcations_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-024-49731-x)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F46f489808b42403c456aeb4f07c6ce3e772d382e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Noble-Lab/casanovo)
   [![Stars](https://img.shields.io/github/stars/Noble-Lab/casanovo?color=yellow&style=social)](https://github.com/Noble-Lab/casanovo)
+
   
 
 
