@@ -510,6 +510,14 @@ Papers are ranked chronologically.
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F85dddb3f7cd102933115dedbfc8b23e514cff655%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/IBM/ReprogBERT)
   [![Stars](https://img.shields.io/github/stars/IBM/ReprogBERT?color=yellow&style=social)](https://github.com/IBM/ReprogBERT)
+
+* **ProteinFlow: a Python Library to Pre-Process Protein Structure Data for Deep Learning Applications**
+
+  [![](https://img.shields.io/badge/bioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.09.25.559346v1)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F850cf3ad41499126db92b2c7ae242df0c5807d6d%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/adaptyvbio/ProteinFlow)
+  [![Stars](https://img.shields.io/github/stars/adaptyvbio/ProteinFlow?color=yellow&style=social)](https://github.com/adaptyvbio/ProteinFlow)
+
   
 * **xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein**
 
@@ -588,9 +596,9 @@ Papers are ranked chronologically.
 * **Fine-tuning protein language models boosts predictions across diverse tasks**
   
   [![](https://img.shields.io/badge/bioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.12.13.571462v2.full)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F51dfa6b6363aee7bfab8b529eba1ec4df20cee6b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/RSchmirler/data-repo_plm-finetune-eval)
   [![Stars](https://img.shields.io/github/stars/RSchmirler/data-repo_plm-finetune-eval?color=yellow&style=social)](https://github.com/RSchmirler/data-repo_plm-finetune-eval)
-  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F51dfa6b6363aee7bfab8b529eba1ec4df20cee6b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
 * **Contextual AI models for single-cell protein biology**
   
@@ -604,8 +612,6 @@ Papers are ranked chronologically.
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Noble-Lab/casanovo)
   [![Stars](https://img.shields.io/github/stars/Noble-Lab/casanovo?color=yellow&style=social)](https://github.com/Noble-Lab/casanovo)
   
-
-
 
 
 ***Protein foundation models are hot topics, more papers can be found in***
