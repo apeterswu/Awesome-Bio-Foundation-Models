@@ -616,6 +616,15 @@ Papers are ranked chronologically.
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Noble-Lab/casanovo)
   [![Stars](https://img.shields.io/github/stars/Noble-Lab/casanovo?color=yellow&style=social)](https://github.com/Noble-Lab/casanovo)
 
+
+* **OpenFold: retraining AlphaFold2 yields new insights into its learning mechanisms and capacity for generalization**
+  
+  [![](https://img.shields.io/badge/Nature_Methods_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-024-02272-z)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc51192d7440807dc98cc4374fb5d919390d70b0b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/aqlaboratory/openfold)
+  [![Stars](https://img.shields.io/github/stars/aqlaboratory/openfold?color=yellow&style=social)](https://github.com/aqlaboratory/openfold)
+
+
   
 
 
