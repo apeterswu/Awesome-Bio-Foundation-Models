@@ -638,7 +638,7 @@ Papers are ranked chronologically.
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7c6729bd4b2b3bdf013482b499c7401ab6de44ef%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://proteinbench.github.io/)
   
-* **Protein foundation models are hot topics, more papers can be found in***
+***Protein foundation models are hot topics, more papers can be found in***
 - [Machine-Learning-for-Proteins](https://github.com/yangkky/Machine-learning-for-proteins)
 - [Awesome-Protein-Representation-Learning](https://github.com/LirongWu/awesome-protein-representation-learning)
 
