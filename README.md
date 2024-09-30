@@ -624,13 +624,19 @@ Papers are ranked chronologically.
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/aqlaboratory/openfold)
   [![Stars](https://img.shields.io/github/stars/aqlaboratory/openfold?color=yellow&style=social)](https://github.com/aqlaboratory/openfold)
 
+* **ProteinInvBench: Benchmarking Protein Inverse Folding on Diverse Tasks, Models, and Metrics**
+  
+  [![](https://img.shields.io/badge/NeurIPS_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d73078d49799693792fb0f3f32c57fc8-Abstract-Datasets_and_Benchmarks.html)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7c22699b85cb011de609b9bf4721c1820c2a143a%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/A4Bio/ProteinInvBench)
+  [![Stars](https://img.shields.io/github/stars/A4Bio/ProteinInvBench?color=yellow&style=social)](https://github.com/A4Bio/ProteinInvBench)
 
 * **ProteinShake: Building datasets and benchmarks for deep learning on protein structures**
   
   [![](https://img.shields.io/badge/NeurIPS_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b6167294ed3d6fc61e11e1592ce5cb77-Abstract-Datasets_and_Benchmarks.html)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7c22699b85cb011de609b9bf4721c1820c2a143a%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/BorgwardtLab/proteinshake)
-  [![Stars](https://img.shields.io/github/stars/Lyu6PosHao/ProLLaMA?color=yellow&style=social)](https://github.com/BorgwardtLab/proteinshake)
+  [![Stars](https://img.shields.io/github/stars/BorgwardtLab/proteinshake?color=yellow&style=social)](https://github.com/BorgwardtLab/proteinshake)
 
 * **ProteinBench: A Holistic Evaluation of Protein Foundation Models**
   
