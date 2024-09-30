@@ -634,7 +634,7 @@ Papers are ranked chronologically.
 * **ProteinShake: Building datasets and benchmarks for deep learning on protein structures**
   
   [![](https://img.shields.io/badge/NeurIPS_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b6167294ed3d6fc61e11e1592ce5cb77-Abstract-Datasets_and_Benchmarks.html)
-  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7c22699b85cb011de609b9bf4721c1820c2a143a%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb73ff00039eec316226c9523e209ff5092792d05%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/BorgwardtLab/proteinshake)
   [![Stars](https://img.shields.io/github/stars/BorgwardtLab/proteinshake?color=yellow&style=social)](https://github.com/BorgwardtLab/proteinshake)
 
@@ -643,6 +643,14 @@ Papers are ranked chronologically.
   [![](https://img.shields.io/badge/arXiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2409.06744)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7c6729bd4b2b3bdf013482b499c7401ab6de44ef%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://proteinbench.github.io/)
+
+
+* **An end-to-end framework for the prediction of protein structure and fitness from single sequence**
+  
+  [![](https://img.shields.io/badge/Nature_Communications_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-024-51776-x)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Faf7189bf7a5dfedc21941c5a235142ba15ac707d%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Gonglab-THU/SPIRED-Fitness)
+  [![Stars](https://img.shields.io/github/stars/Gonglab-THU/SPIRED-Fitness?color=yellow&style=social)](https://github.com/Gonglab-THU/SPIRED-Fitness)
   
 ***Protein foundation models are hot topics, more papers can be found in***
 - [Machine-Learning-for-Proteins](https://github.com/yangkky/Machine-learning-for-proteins)
