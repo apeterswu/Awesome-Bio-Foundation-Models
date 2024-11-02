@@ -16,15 +16,16 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
 
 
 ## Table of Content
+- [Table of Content](#table-of-content)
 - [Models](#models)
-  - [DNA & Gene](#dna--gene)
+  - [DNA \& Gene](#dna--gene)
   - [RNA](#rna)
   - [Protein](#protein)
   - [Single-cell](#single-cell)
   - [Multimodalities](#multimodalities)
 - [Related Resources](#related-resources)
-  - [Related Surveys](#related-surveys) 
-  - [Repositories](#related-repositories)
+  - [Related Surveys](#related-surveys)
+  - [Related Repositories](#related-repositories)
 ---
 
 ## Models
@@ -143,7 +144,7 @@ Papers are ranked chronologically.
 * **DNAGPT: A Generalized Pre-trained Tool for Multiple DNA Sequence Analysis Tasks**
   
   [![](https://img.shields.io/badge/BioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/biorxiv/early/2023/07/12/2023.07.11.548628.full.pdf)
-  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa05be6905ce7fb4a86dd9b174232362cc50df5af%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/DOI:10.1371/journal.pone.0310814?fields=citationCount&query=$.citationCount&label=Citations&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/TencentAILabHealthcare/DNAGPT)
   [![Stars](https://img.shields.io/github/stars/TencentAILabHealthcare/DNAGPT?color=yellow&style=social)](https://github.com/TencentAILabHealthcare/DNAGPT)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/drive/folders/10UPPx6V13oQW6knuLV7d8SRIA3D6hYor)
@@ -340,6 +341,12 @@ Papers are ranked chronologically.
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Bruce-ywj/ERNIE-RNA)
   [![Stars](https://img.shields.io/github/stars/Bruce-ywj/ERNIE-RNA?color=yellow&style=social)](https://github.com/Bruce-ywj/ERNIE-RNA)
 
+* **GenerRNA: A generative pre-trained language model for de novo RNA design**
+  
+  [![](https://img.shields.io/badge/PLOS_ONE_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://www.biorxiv.org/content/10.1101/2024.03.17.585376v1](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310814))
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa91773f7c81dac17bef8361babde871c88ed688b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-FFD700?style=flat&logo=Huggingface&labelColor=000000)](https://huggingface.co/pfnet/GenerRNA)
+  [![Stars](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/models/pfnet/GenerRNA&query=$.likes&label=Likes&color=yellow&style=social)](https://huggingface.co/pfnet/GenerRNA)
 
 
 ### <code>Protein</code>
