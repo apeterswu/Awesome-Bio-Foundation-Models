@@ -651,6 +651,12 @@ Papers are ranked chronologically.
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Faf7189bf7a5dfedc21941c5a235142ba15ac707d%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Gonglab-THU/SPIRED-Fitness)
   [![Stars](https://img.shields.io/github/stars/Gonglab-THU/SPIRED-Fitness?color=yellow&style=social)](https://github.com/Gonglab-THU/SPIRED-Fitness)
+
+* **SFM-Protein: Integrative Co-evolutionary Pre-training for Advanced Protein Sequence Representation**
+
+  [![](https://img.shields.io/badge/arXiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2410.24022)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1e617c1b57f83bf422edb4c1704a28853a8d0abb%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  
   
 ***Protein foundation models are hot topics, more papers can be found in***
 - [Machine-Learning-for-Proteins](https://github.com/yangkky/Machine-learning-for-proteins)
