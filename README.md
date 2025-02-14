@@ -349,7 +349,7 @@ Papers are ranked chronologically.
   
   [![](https://img.shields.io/badge/PLOS_ONE_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://www.biorxiv.org/content/10.1101/2024.03.17.585376v1](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310814))
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa91773f7c81dac17bef8361babde871c88ed688b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-  [![](https://img.shields.io/badge/code-FFD700?style=flat&logo=Huggingface&labelColor=000000)](https://huggingface.co/pfnet/GenerRNA)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://huggingface.co/pfnet/GenerRNA)
   [![Stars](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/models/pfnet/GenerRNA&query=$.likes&label=Likes&color=yellow&style=social)](https://huggingface.co/pfnet/GenerRNA)
 
 
