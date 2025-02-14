@@ -869,6 +869,13 @@ Papers are ranked chronologically.
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/togethercomputer/evo-1-131k-base)
 
 
+* **NatureLM: Deciphering the Language of Nature for Scientific Discovery**
+  
+  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2502.07527)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1a9c8ce657bb02834be8774ef3b005679af362dc%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Project](https://img.shields.io/badge/Project-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://naturelm.github.io/)
+
+
 
 
 
