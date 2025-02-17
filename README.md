@@ -352,6 +352,13 @@ Papers are ranked chronologically.
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://huggingface.co/pfnet/GenerRNA)
   [![Stars](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/models/pfnet/GenerRNA&query=$.likes&label=Likes&color=yellow&style=social)](https://huggingface.co/pfnet/GenerRNA)
 
+* **Orthrus: Towards Evolutionary and Functional RNA Foundation Models**
+
+  [![](https://img.shields.io/badge/BioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.10.10.617658v2)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd206b78072c58b06aada33d8b30fe9e94cfd801e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/bowang-lab/Orthrus)
+  [![Stars](https://img.shields.io/github/stars/bowang-lab/Orthrus?color=yellow&style=social)](https://github.com/bowang-lab/Orthrus)
+
 
 ### <code>Protein</code>
 
