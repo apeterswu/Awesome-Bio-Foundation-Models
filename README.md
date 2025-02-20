@@ -876,6 +876,13 @@ Papers are ranked chronologically.
   [![Project](https://img.shields.io/badge/Project-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://naturelm.github.io/)
 
 
+* **Genome modeling and design across all domains of life with Evo 2**
+  
+  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arcinstitute.org/manuscripts/Evo2)
+  [![Stars](https://img.shields.io/github/stars/evo-design/evo?color=yellow&style=social)](https://github.com/ArcInstitute/evo2)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/arcinstitute)
+
+
 
 
 
