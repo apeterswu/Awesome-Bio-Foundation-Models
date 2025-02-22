@@ -667,6 +667,15 @@ Papers are ranked chronologically.
 
   [![](https://img.shields.io/badge/arXiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2410.24022)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1e617c1b57f83bf422edb4c1704a28853a8d0abb%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **(BioEmu-1) Scalable emulation of protein equilibrium ensembles with generative deep learning**
+  
+  [![](https://img.shields.io/badge/bioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.12.05.626885v1.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F36b66b549be8bf275db64c8d002b5028b8c6235f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/microsoft/bioemu)
+  [![Stars](https://img.shields.io/github/stars/microsoft/bioemu?color=yellow&style=social)](https://github.com/microsoft/bioemu)
+
+
   
   
 ***Protein foundation models are hot topics, more papers can be found in***
