@@ -324,6 +324,13 @@ Papers are ranked chronologically.
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/OmicsML/CellPLM)
   [![Stars](https://img.shields.io/github/stars/OmicsML/CellPLM?color=yellow&style=social)](https://github.com/OmicsML/CellPLM)
  
+* **Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data**
+  
+  [![](https://img.shields.io/badge/BioRxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/cafferychen777/mLLMCelltype)
+  [![Stars](https://img.shields.io/github/stars/cafferychen777/mLLMCelltype?color=yellow&style=social)](https://github.com/cafferychen777/mLLMCelltype)
+
 * **Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis**
   
   [![](https://img.shields.io/badge/Nature_Methods_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-024-02235-4)
