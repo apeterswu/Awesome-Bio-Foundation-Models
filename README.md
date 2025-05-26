@@ -23,6 +23,7 @@ The repository is a collection of awesome bio-foundation modeling papers, variou
   - [Protein](#protein)
   - [Single-cell](#single-cell)
   - [Multimodalities](#multimodalities)
+  - [Pathology](#pathology)
 - [Related Resources](#related-resources)
   - [Related Surveys](#related-surveys)
   - [Related Repositories](#related-repositories)
@@ -918,6 +919,17 @@ Papers are ranked chronologically.
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/arcinstitute)
 
 
+
+
+
+
+### <code>Pathology</code>
+
+* **H-optimus-0: Extract powerful features from histology images for various downstream applications**
+  
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/bioptimus/releases/tree/main/models/h-optimus/v0)
+  [![Stars](https://img.shields.io/github/stars/bioptimus/releases?color=yellow&style=social)](https://github.com/bioptimus/releases/tree/main/models/h-optimus/v0)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/bioptimus/H-optimus-0)
 
 
 
