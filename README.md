@@ -697,13 +697,26 @@ Papers are ranked chronologically.
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/westlake-repl/Evolla)
   [![Stars](https://img.shields.io/github/stars/westlake-repl/Evolla?color=yellow&style=social)](https://github.com/westlake-repl/Evolla)
 
-* **Protrek: Navigating the protein universe through tri-modal contrastive learning**
+* **ProTrek: Navigating the protein universe through tri-modal contrastive learning**
 
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://doi.org/10.1101/2024.05.30.596740)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0ccf6bf9a9d155768f315e2f3e606f39bdd33661%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/westlake-repl/ProTrek)
   [![Stars](https://img.shields.io/github/stars/westlake-repl/ProTrek?color=yellow&style=social)](https://github.com/westlake-repl/ProTrek)
-  
+
+* **(ProteinDT) A text-guided protein design framework**
+
+  [![](https://img.shields.io/badge/Nature_Machine_Intelligence_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s42256-025-01011-z)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd55b69a533dea69c8b2673cde8de90c6626ee789%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/chao1224/ProteinDT)
+  [![Stars](https://img.shields.io/github/stars/chao1224/ProteinDT?color=yellow&style=social)](https://github.com/chao1224/ProteinDT)
+
+* **(Pinal) Toward De Novo Protein Design from Natural Language**
+
+  [![](https://img.shields.io/badge/bioRxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.08.01.606258v5)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Faa2728836e242391b79c7329b3cfb35d9b4afccc%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/westlake-repl/Denovo-Pinal)
+  [![Stars](https://img.shields.io/github/stars/westlake-repl/Denovo-Pinal?color=yellow&style=social)](https://github.com/westlake-repl/Denovo-Pinal)
   
 ***Protein foundation models are hot topics, more papers can be found in***
 - [Machine-Learning-for-Proteins](https://github.com/yangkky/Machine-learning-for-proteins)
